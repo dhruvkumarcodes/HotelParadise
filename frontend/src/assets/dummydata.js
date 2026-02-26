@@ -146,10 +146,10 @@ export const additionalData = [
 
 // FOOTER 
 export const socialIcons = [
-    { icon: FaFacebook, link: 'https://www.linkedin.com/in/contactdhruvkumar/ ', color: '#3b5998', label: 'Facebook' },
-    { icon: FaInstagram, link: 'https://www.linkedin.com/in/contactdhruvkumar/ ', color: '#E1306C', label: 'Instagram' },
-    { icon: FaXTwitter, link: 'https://www.linkedin.com/in/contactdhruvkumar/ ', color: '#000', label: 'X' },
-    { icon: FaYoutube, link: 'https://www.linkedin.com/in/contactdhruvkumar/ ', color: '#FF0000', label: 'Youtube' },
+    { icon: FaFacebook, link: '', color: '#3b5998', label: 'Facebook' },
+    { icon: FaInstagram, link: '', color: '#E1306C', label: 'Instagram' },
+    { icon: FaXTwitter, link: '', color: '#000', label: 'X' },
+    { icon: FaYoutube, link: '', color: '#FF0000', label: 'Youtube' },
 ];
 
 // LOGIN 
