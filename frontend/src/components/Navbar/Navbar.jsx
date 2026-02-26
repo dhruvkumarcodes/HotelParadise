@@ -220,7 +220,7 @@ const Navbar = () => {
               &times;
             </button>
             <h2 className="text-3xl font-bold bg-gradient-to-r from-amber-400 to-amber-600 bg-clip-text text-transparent mb-6 text-center">
-              Zesty
+              Hotel Paradise Login
             </h2>
             <Login onLoginSuccess={handleLoginSuccess} onClose={() => navigate('/')} />
           </div>
